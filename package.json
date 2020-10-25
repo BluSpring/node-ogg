@@ -28,5 +28,6 @@
   },
   "scripts": {
     "test": "mocha --reporter spec"
-  }
+  },
+  "types": "index.d.ts"
 }
